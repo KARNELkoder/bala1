@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "31.01.2004"; // Дата рождения
+var birthdate = "30.01.2004"; // Дата рождения
 var fullname = "Голівер Микита Миколайович" // ФИО
 var name = "Имя" // Имя
 
