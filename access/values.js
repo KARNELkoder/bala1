@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "30.01.2004"; // Дата рождения
-var fullname = "Голівер Микита Миколайович" // ФИО
+var birthdate = "10.09.2004"; // Дата рождения
+var fullname = "Балагура Андрій Юрійович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
